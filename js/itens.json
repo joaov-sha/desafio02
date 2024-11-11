@@ -1,0 +1,14 @@
+[
+    {
+    "title": "Graphic Design",
+    "department": "English Department",
+    "price": "$16.48",
+    "discountedPrice": "$6.48",
+    "colorPalette": {
+        "color1": "#23a6f0",
+        "color2": "#23856d",
+        "color3": "#e77c40",
+        "color4": "#252b42"
+    }
+    }
+]
